@@ -3,7 +3,7 @@ Papers club from the AI team in D-ID  - this time Diffusion Model(DM).
 
 Diffusion Models were first introduced in [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585). However, it took until [Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600) (Song et al., 2019, Stanford University), and then [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) (Ho et al., 2020, Google Brain) who independently improved the approach.
 
-A good explnantion on what are Diffusion Models and why they are intresting can be found in [Diffusion-Models](https://youtu.be/cS6JQpEY9cs)
+A good explnantion on what are Diffusion Models and why they are intresting can be found in [Diffusion-Models Tutorial](https://youtu.be/cS6JQpEY9cs) (CVPR 2022).
 
 
 מועדון קריאת מאמרים שלנו - כל ההרצאות בעיברית
