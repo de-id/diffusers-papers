@@ -1,5 +1,7 @@
 # Denoising Diffusion Probabilistic Models Papers
-Papers club from the AI team in D-ID  - this time Diffusion Models
+Papers club from the AI team in D-ID  - this time Diffusion Models.
+
+Diffusion Models were first introduced in [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585).
 
 A good explnantion on what are Diffusion Models and why they are intresting can be found in [Diffusion-Models](https://youtu.be/cS6JQpEY9cs)
 
@@ -7,7 +9,6 @@ A good explnantion on what are Diffusion Models and why they are intresting can 
 מועדון קריאת מאמרים שלנו - כל ההרצאות בעיברית
 | Title | Paper / Resource | Year | Why is it interesting? | Asignee | Recording | Slides |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Deep Unsupervised Learning using Nonequilibrium Thermodynamics|[Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585)|2015| <details><summary>read why</summary></details> | []() | | |
 |Denoising Diffusion Probabilistic Models|[Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) & [Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600) | 2019-2020 | <details><summary>read why</summary></details> | []() | | |
 |The Annotated Diffusion Model |[The Annotated Diffusion Model](https://huggingface.co/blog/annotated-diffusion) |  | <details><summary>read why</summary></details> | [self-work]() | -- |--|
 | Classifier (+ Classifier-Free) Diffusion Guidance |[Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)  & [Classifier-Free Diffusion Guidance](https://openreview.net/pdf?id=qw8AKxfYbI)|  2021| <details><summary>read why</summary> DM achieve image sample quality superior to the current SOTA GAN models by improving the U-Net architecture, as well as introducing classifier (+calssifier free) guidance </details> | []() | | |
